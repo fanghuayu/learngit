@@ -1,2 +1,2 @@
 mygit commit
-dev branch
+ahead one branch
