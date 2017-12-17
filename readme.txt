@@ -1,2 +1,2 @@
 mygit commit
-dev branch
+Switched to a new branch 'feature1'
