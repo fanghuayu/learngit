@@ -1,6 +1,4 @@
-mygit commit
+mygit commit issue1
 
-ahead one branch
 
-Switched to a new branch 'feature1'
 
